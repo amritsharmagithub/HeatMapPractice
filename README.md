@@ -1,3 +1,3 @@
 # HeatMapPractice
 
-In this exercise I used Seaborn library to understannd California Housing data
+I used California Housing data and Flights data to practice different libraries in Python. 
